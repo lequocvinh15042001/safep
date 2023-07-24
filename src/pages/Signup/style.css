@@ -1,0 +1,433 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 1101px;
+    position: relative;
+    width: 960px;
+  }
+  
+  .frame .text-wrapper {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 272px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 149px;
+    width: 229px;
+  }
+  
+  .frame .text-wrapper-2 {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 272px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 310px;
+    width: 229px;
+  }
+  
+  .frame .p {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 272px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 408px;
+    width: 285px;
+  }
+  
+  .frame .text-wrapper-3 {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 272px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 631px;
+    width: 267px;
+  }
+  
+  .frame .text-wrapper-4 {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 273px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 768px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-5 {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    left: 290px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 805px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-6 {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    left: 363px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 805px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-7 {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    left: 450px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 805px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-8 {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    left: 567px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 805px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-9 {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    left: 292px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 839px;
+    white-space: nowrap;
+  }
+  
+  .frame .overlap {
+    border-radius: 2px;
+    height: 63px;
+    left: 272px;
+    position: absolute;
+    top: 182px;
+    width: 405px;
+  }
+  
+  .frame .text-wrapper-10 {
+    color: #ccc9c9;
+    font-family: "League Spartan", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 22px;
+    white-space: nowrap;
+    width: 168px;
+  }
+  
+  .frame .rectangle {
+    border: 1px solid;
+    border-color: #1f7564;
+    border-radius: 2px;
+    height: 63px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 405px;
+  }
+  
+  .frame .overlap-group {
+    border-radius: 2px;
+    height: 63px;
+    left: 272px;
+    position: absolute;
+    top: 336px;
+    width: 405px;
+  }
+  
+  .frame .text-wrapper-11 {
+    color: #ccc9c9;
+    font-family: "League Spartan", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 22px;
+    white-space: nowrap;
+    width: 168px;
+  }
+  
+  .frame .overlap-2 {
+    border-radius: 2px;
+    height: 63px;
+    left: 272px;
+    position: absolute;
+    top: 434px;
+    width: 405px;
+  }
+  
+  .frame .overlap-group-2 {
+    border-radius: 2px;
+    height: 63px;
+    left: 272px;
+    position: absolute;
+    top: 657px;
+    width: 405px;
+  }
+  
+  .frame .overlap-3 {
+    border-radius: 2px;
+    height: 64px;
+    left: 272px;
+    position: absolute;
+    top: 537px;
+    width: 405px;
+  }
+  
+  .frame .text-wrapper-12 {
+    color: #ccc9c9;
+    font-family: "League Spartan", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 23px;
+    white-space: nowrap;
+    width: 165px;
+  }
+  
+  .frame .rectangle-2 {
+    border: 1px solid;
+    border-color: #1f7564;
+    border-radius: 2px;
+    height: 64px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 405px;
+  }
+  
+  .frame .group {
+    height: 29px;
+    left: 356px;
+    position: absolute;
+    top: 14px;
+    width: 30px;
+  }
+  
+  .frame .text-wrapper-13 {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 272px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 511px;
+    width: 215px;
+  }
+  
+  .frame .have-an-account-log {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 367px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 981px;
+    white-space: nowrap;
+    width: 255px;
+  }
+  
+  .frame .span {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0;
+  }
+  
+  .frame .text-wrapper-14 {
+    text-decoration: underline;
+  }
+  
+  .frame .overlap-4 {
+    border-radius: 34px;
+    height: 63px;
+    left: 356px;
+    position: absolute;
+    top: 890px;
+    width: 212px;
+  }
+  
+  .frame .text-wrapper-15 {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 66px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 18px;
+    white-space: nowrap;
+    width: 119px;
+  }
+  
+  .frame .rectangle-3 {
+    border: 1px solid;
+    border-color: #1f7564;
+    border-radius: 34px;
+    height: 63px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 212px;
+  }
+  
+  .frame .h-1 {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 172px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 63px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-16 {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 272px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 254px;
+    white-space: nowrap;
+    width: 256px;
+  }
+  
+  .frame .text-wrapper-17 {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 272px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 727px;
+    white-space: nowrap;
+    width: 256px;
+  }
+  
+  .frame .ellipse {
+    border: 1px solid;
+    border-color: #1f7564;
+    border-radius: 7px;
+    height: 14px;
+    left: 271px;
+    position: absolute;
+    top: 805px;
+    width: 14px;
+  }
+  
+  .frame .ellipse-2 {
+    border: 1px solid;
+    border-color: #1f7564;
+    border-radius: 7px;
+    height: 14px;
+    left: 344px;
+    position: absolute;
+    top: 805px;
+    width: 14px;
+  }
+  
+  .frame .ellipse-3 {
+    border: 1px solid;
+    border-color: #1f7564;
+    border-radius: 7px;
+    height: 14px;
+    left: 548px;
+    position: absolute;
+    top: 805px;
+    width: 14px;
+  }
+  
+  .frame .ellipse-4 {
+    border: 1px solid;
+    border-color: #1f7564;
+    border-radius: 7px;
+    height: 14px;
+    left: 431px;
+    position: absolute;
+    top: 805px;
+    width: 14px;
+  }
+  
+  .frame .ellipse-5 {
+    border: 1px solid;
+    border-color: #1f7564;
+    border-radius: 7px;
+    height: 14px;
+    left: 273px;
+    position: absolute;
+    top: 839px;
+    width: 14px;
+  }
+  

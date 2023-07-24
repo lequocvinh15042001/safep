@@ -1,0 +1,1 @@
+export { FrameHome } from "./FrameHome";

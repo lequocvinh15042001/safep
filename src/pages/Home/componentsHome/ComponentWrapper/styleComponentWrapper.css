@@ -1,0 +1,98 @@
+.component-wrapper {
+    height: 98px;
+    width: 212px;
+  }
+  
+  .component-wrapper .overlap-group-2 {
+    border-radius: 8px;
+    height: 98px;
+    position: relative;
+  }
+  
+  .component-wrapper .material-symbols {
+    display: block;
+    height: 18px;
+    left: 8px;
+    position: absolute;
+    top: 5px;
+    width: 18px;
+  }
+  
+  .component-wrapper .img {
+    height: 20px;
+    left: 8px;
+    position: absolute;
+    top: 39px;
+    width: 20px;
+  }
+  
+  .component-wrapper .clarity-library {
+    height: 19px;
+    left: 9px;
+    position: absolute;
+    top: 76px;
+    width: 19px;
+  }
+  
+  .component-wrapper .material-symbols-add {
+    height: 14px;
+    left: 188px;
+    position: absolute;
+    top: 80px;
+    width: 14px;
+  }
+  
+  .component-wrapper .rectangle {
+    border: 1px solid;
+    border-color: #fdfdfd;
+    border-radius: 8px;
+    box-shadow: 0px 0px 2px #00000033;
+    height: 98px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 212px;
+  }
+  
+  .component-wrapper .my-courses {
+    color: #1f7564;
+    font-family: "Signika", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 81px;
+    width: 110px;
+    text-decoration-line: none;
+  }
+  
+  .component-wrapper .search {
+    color: #1f7564;
+    font-family: "Signika", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 43px;
+    width: 43px;
+    text-decoration: none;
+  }
+  
+  .component-wrapper .home {
+    color: #1f7564;
+    font-family: "Signika", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 10px;
+    width: 43px;
+    text-decoration: none;
+  }
+  

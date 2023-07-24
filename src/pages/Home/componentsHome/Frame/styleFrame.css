@@ -1,0 +1,52 @@
+.frame {
+    height: 30px;
+    overflow: hidden;
+    position: relative;
+    width: 206px;
+  }
+  
+  .frame .overlap-group-wrapper {
+    height: 16px;
+    left: 8px;
+    position: absolute;
+    top: 9px;
+    width: 73px;
+  }
+  
+  .frame .overlap-group {
+    background-color: #d9d9d9;
+    border-radius: 19px;
+    height: 16px;
+    position: relative;
+    width: 71px;
+  }
+  
+  .frame .hashtag {
+    color: #1f7564;
+    font-family: "League Spartan", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 4px;
+    white-space: nowrap;
+  }
+  
+  .frame .overlap-wrapper {
+    height: 16px;
+    left: 88px;
+    position: absolute;
+    top: 9px;
+    width: 73px;
+  }
+  
+  .frame .div {
+    height: 16px;
+    left: 174px;
+    position: absolute;
+    top: 9px;
+    width: 73px;
+  }
+  
